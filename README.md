@@ -35,7 +35,7 @@
 ---
 
 ## Installation
-1. Download the [trainer](https://github.com/Ragnard-Kiseki/PvZTrainer/releases/latest){:target="_blank"} and the [game](https://github.com/Ragnard-Kiseki/PvZTrainer/releases/latest){:target="_blank"} file.
+1. Download the [trainer](https://github.com/Ragnard-Kiseki/PvZTrainer/releases/latest) and the [game](https://github.com/Ragnard-Kiseki/PvZTrainer/releases/latest) file.
 2. Extract the contents to a folder on your computer.
 3. Run the trainer application as an administrator.
 4. Start Plants vs Zombies.
