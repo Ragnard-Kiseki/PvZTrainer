@@ -12,6 +12,7 @@
     <Description>"A Trainer made specifically for the game Plants vs Zombies"
 </Description>
     <Version>$(VersionPrefix)</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
